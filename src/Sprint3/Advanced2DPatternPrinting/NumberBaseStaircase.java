@@ -1,4 +1,4 @@
-package Sprint2.CombinatoricsMathSeries;
+package Sprint3.Advanced2DPatternPrinting;
 
 import java.util.ArrayList;
 import java.util.Collections;
